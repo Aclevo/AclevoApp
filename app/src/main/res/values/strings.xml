@@ -4,4 +4,14 @@
     <string name="title_blog">Blog</string>
     <string name="title_forums">Forums</string>
     <string name="title_more">More</string>
+
+    <string name="not_yet_implemented_toast">Coming soon!</string>
+
+    <string name="home_fragment_placeholder_text">This is the home screen!</string>
+    <string name="blog_fragment_placeholder_text">This is the blog screen!</string>
+    <string name="forum_fragment_placeholder_text">This is the forums screen!</string>
+    <string name="more_fragment_placeholder_text">This is the more screen!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
